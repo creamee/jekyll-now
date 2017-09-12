@@ -40,7 +40,7 @@ published: true
     <td>What did I do?</td>
   </tr>
   <tr>
-    <td>Firstly, I went to the Green room for what I thought was going to be drama. Then we found out that we were 8C, not 8B, and had to go to IT1. When we were told to delete our repository on github, and I did not understand what he meant. So, I now know that we have to delete our repository on github, and realize that we are in fact, not 8B, but 8C.</td>
+    <td>Firstly, I went to the Green room for what I thought was going to be drama. Then we found out that we were 8C, not 8B, and had to go to IT1. When we got to IT1 we were told to delete our repository on github, and I thought Mr. Keen was telling us to delete our accounts, and that made me sad. But then I realised it was just the repository, not the account. I am finding it quite hard to remember how to do the boxes and the background colour of my new blog, so I'm still working on that.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
