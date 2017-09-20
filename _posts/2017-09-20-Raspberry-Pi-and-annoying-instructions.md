@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi and annoying instructions
+title: Raspberry Pi and Annoying Instructions
 layout: post
 author: mikkel.hughes
 permalink: /raspberry-pi-and-annoying-instructions/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Raspberry Pi, and annoying instructions</td>
+    <td>Raspberry Pi, and Annoying Instructions</td>
     <td>    Date</td>
     <td>20/09/2017</td>
   </tr>
