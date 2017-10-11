@@ -52,7 +52,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will probably do exactly the same as I did today. I will improve my learning by doing exactly as I did today. </td>
+    <td>Next time I will probably do exactly the same as I did today. I will improve my learning by doing exactly as I did today.</td>
   </tr>
 </table>
 
