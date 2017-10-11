@@ -52,7 +52,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will ask my partner if I can type some of the script. I will improve my learning by reading what I have to type into the Raspberry Pi quickly. </td>
+    <td>Next time I will ask my partner if I can type some of the script. I will improve my learning by reading what I have to type into the Raspberry Pi quickly.</td>
   </tr>
 </table>
 
