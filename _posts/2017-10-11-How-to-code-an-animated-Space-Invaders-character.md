@@ -37,7 +37,7 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td> What strategies were effective?</td>
+    <td>What strategies were effective?</td>
   </tr>
   <tr>
     <td>This time we had to type the code in fast because if not we would of wasted lots of time. We decided that I would read and he would type. When he made errors, I always spotted them, then I would tell him them and he would correct them. In the middle of the lesson our teacher told us to send a link to our blogs. My partner and I did this instantly and we carried on with our work. In the end we had a colour changing Space Invaders character and half an hour left of the lesson. I also brang in a memory stick.</td>
