@@ -37,7 +37,7 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td> What strategies were effective?</td>
+    <td>What strategies were effective?</td>
   </tr>
   <tr>
     <td>At the start of the lesson, I went to find my previous partner, but then I saw that he was with someone else, so I asked the teacher who I could go with. Soon I was paired up with Shayok and he said that he would be the one who typed. In the end we finished project three.</td>
