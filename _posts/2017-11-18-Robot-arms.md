@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting Point:</td>
-    <td>Doing a project (I don't know what project number it is yet) on a Raspberry Pi.</td>
+    <td>Doing stage Special 1 project 1 ( Special 1-1) on a Raspberry Pi.</td>
   </tr>
   <tr>
     <td>Target for this Lesson</td>
