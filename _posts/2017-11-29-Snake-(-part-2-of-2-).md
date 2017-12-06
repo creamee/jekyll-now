@@ -1,5 +1,5 @@
 ---
-title: Snake ( part 2 of 2 )
+title: Snake ( part 2 of 3 )
 layout: post
 author: mikkel.hughes
 permalink: /snake-(-part-2-of-2-)/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Snake ( part 2 of 2 )</td>
+    <td>Snake ( part 2 of 3 )</td>
     <td>    Date</td>
     <td>29/11/2017</td>
   </tr>
