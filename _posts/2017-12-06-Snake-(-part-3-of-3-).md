@@ -37,7 +37,7 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>What strategies were </td>
+    <td>What strategies were effective?</td>
   </tr>
   <tr>
     <td>Today, like last week and the week before, Ash was not here. I decided to go with Yusuf again and we continued from where we were last week. We got further than last time, but the wall that was supposed to be in the game wasn't there. We tried seeing what was incorrect, but we couldn’t find anything.</td>
