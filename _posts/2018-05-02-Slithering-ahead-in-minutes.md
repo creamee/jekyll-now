@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting Point:</td>
-    <td>Going on codecademy and starting from where left off.</td>
+    <td>Going on codecademy and starting from where I left off.</td>
   </tr>
   <tr>
     <td>Target for this Lesson</td>
